@@ -1,0 +1,10 @@
+apple banana apple orange banana apple
+cat dog cat cat bird
+hello world hello
+python code python code python code
+test word frequency test test
+openai gpt gpt openai
+this is a simple text file for testing word frequency counting
+the the the and and but or not yes no maybe
+apple apple apple banana banana orange
+repeat repeat repeat repeat once once twice
